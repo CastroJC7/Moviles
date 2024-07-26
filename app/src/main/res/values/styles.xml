@@ -1,0 +1,6 @@
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Otros atributos de tu tema -->
+        <item name="colorAccent">#FFC0CB</item> <!-- Color rosa para acentos -->
+    </style>
+</resources>
